@@ -1,3 +1,3 @@
 const npmLearning = require('npm_learning');
 
-npmLearning.printMsg();
+npmLearning.printMsg('hhhh');
